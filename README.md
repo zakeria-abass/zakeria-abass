@@ -6,11 +6,11 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
-- 📫 How to reach me **zkryabas174@gmail.com**
-
 - 📄 Know about my experiences [Framework Laravel developer =>Api]
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **zkryabas174@gmail.com**
+
 <p align="left">
 </p>
 
