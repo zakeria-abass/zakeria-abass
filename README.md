@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://dunesfactory.com/wp-content/uploads/2020/04/Dunes_development.gif" alt="zakeria-abass" width="400"/> </p>
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- 📫 How to reach me zkryabas174@gmail.com
 
 - 📄 Know about my experiences [Framework Laravel developer =>Api]
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **zkryabas174@gmail.com**
 
 <p align="left">
 </p>
